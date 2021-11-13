@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/d0bbj8u2iolrd40b?svg=true)](https://ci.appveyor.com/project/ajoq/ajs-homeworks-7-regex-7-1-nicknames)
