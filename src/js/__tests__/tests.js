@@ -1,10 +1,5 @@
 import Validator from '../app';
 
-test('only latin characters', () => {
-  const player = new Validator('Василий').validateUsername();
-  expect(player).toBe(false);
-});
-
 test.each([
   ['Василий', false],
   ['ajБoq', false],
